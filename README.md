@@ -9,7 +9,9 @@ Simple snake game
 
 1st time learning JavaScript
 
-Pushing is not working.. urgh
+Pushing is not working
+
+pls work now!
 
 ## Youtube Video
 
